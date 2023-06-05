@@ -9,25 +9,25 @@ To develop a Django application to store and retrieve data from a database using
 
 
 ## DESIGN STEPS
-##STEP 1:
+## STEP 1:
 clone the repository from github.
 
-##STEP 2:
+## STEP 2:
 create an admin interface for django
 
-##STEP 3:
+## STEP 3:
 create an app and edit settings.py
 
-##STEP 4:
+## STEP 4:
 make migrations and migrate the changes.
 
-##STEP 5:
+## STEP 5:
 create admin user and write python code for admin and models.
 
-##STEP 6:
+## STEP 6:
 make all the migrations to 'myapp'.
 
-##STEP 7:
+## STEP 7:
 create an student database with 10 fields using runserver command.
 
 ## PROGRAM
@@ -61,10 +61,10 @@ admin.site.register(Student,StudentAdmin)
 
 
 ## OUTPUT
-##Server Output:
+## Server Output:
 ![djangooutput1](https://github.com/SivaMohan-cloud/django-orm-app/assets/121418870/f927cc24-d52c-43cc-a8d8-64fbbf47c09e)
 
-##Client Output:
+## Client Output:
 ![djangooutput2](https://github.com/SivaMohan-cloud/django-orm-app/assets/121418870/d6bd549e-97a2-4387-a6e5-4314ac656e1a)
 
 ## RESULT
